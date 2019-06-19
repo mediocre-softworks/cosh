@@ -1,0 +1,23 @@
+[script]
+shared_state = 1
+
+[display]
+width = 960
+height = 640
+fullscreen = 0
+
+[android]
+input_method = HiddenInputField
+
+[project]
+title = cosh
+
+[physics]
+debug = 1
+
+[profiler]
+track_cpu = 1
+
+[bootstrap]
+main_collection = /main/main.collectionc
+
